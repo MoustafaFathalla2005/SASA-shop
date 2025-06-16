@@ -653,9 +653,9 @@ section .Call  textarea{
 
 
 }
-@media(max-width:450px){
+@media(max-width:600px){
     section .shop{
-        height:45vh; 
+        height:57vh; 
     }
     section .about {
         margin-top:25vh ;
